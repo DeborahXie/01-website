@@ -2,7 +2,7 @@
 #action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hello, Nice to meet you! I am Yuezhi Xie. I am currently a second-year Master of Science student at University of Pennsylvania. I have a Bachelor's Degree from Hamilton College in Economics and in Literature. 
+description: Hello there, Nice to meet you! I am Deborah Xie. I am currently a second-year Master of Science student at University of Pennsylvania. I have a Bachelor's Degree from Hamilton College in Economics and in Literature. I perceive and interact with the world with critical thinking and quantitative analysis. I want to work in an diverse community that succeeds together and delivers sustainable solutions with innovative mindsets.
 
 image_left: true
 images:
