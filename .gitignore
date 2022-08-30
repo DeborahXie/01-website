@@ -3,5 +3,7 @@
 .RData
 .Ruserdata
 .DS_Store
-./pubic/
-./resources/
+Thumbs.db
+.hugo_build.lock
+/pubic/
+/resources/
