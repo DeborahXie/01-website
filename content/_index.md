@@ -9,7 +9,7 @@ images:
 - IMG_2937.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Welcome to my homepage! 
+subtitle: A collaborator, a rebel and a communicator with the world 
 text_align_left: false
 title: Yuezhi (Deborah) Xie
 type: home
