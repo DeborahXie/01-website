@@ -10,7 +10,7 @@ images:
 show_action_link: true
 show_social_links: true
 subtitle: A collaborator, a rebel and a communicator with the world 
-text_align_left: false
+text_align_left: true
 title: Yuezhi (Deborah) Xie
 type: home
 ---
