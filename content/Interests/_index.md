@@ -1,24 +1,63 @@
 ---
-author: Yuezhi Xie
 cascade:
-  author: The R Markdown Team @RStudio
-  show_author_byline: true
-  show_comments: false
-  show_post_date: true
-  show_post_time: true
-  sidebar:
-    show_sidebar_adunit: false
-    text_link_label: View recent talks
-    text_link_url: /talk/
+  headless: true
 description: |
-  This draws a full and vivid picture of who I am and How I became me.
-layout: list
-show_author_byline: true
-show_button_links: true
-show_post_date: true
-show_post_thumbnail: true
-show_post_time: true
-title: Interests that made me 
+date: "2022-09-01"
+show_header: true
+sidebar_left: true
+title: The elements of enlightenment in my life
+layout: single
+subtitle : Books, films, activities and people
+
 ---
 
-** No content below YAML for the talk _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside talk/. You may still override any of these by changing them in a page's front matter.**
+### Let's go explore the world! {.panelset}
+#### Row, Row, Row your boat, 
+
+#### Gently down the stream.
+
+#### Marrily, Marrily, Marrily, Marrily, 
+
+#### Life is but a dream~
+
+### My literature reading list
+
+Romola - George Eliot
+
+Theologico-Political Treatise - Baruch Spinoza
+
+Tender is the night - F.Scott.Fitzgerald
+
+Gone with the wind - Margaret Mitchell
+
+New Grub Street - George Gissing
+
+The Bleak House - Charles Dickens
+
+Les Miserables - Victor Hugo
+
+Indiana - George Sand
+
+### My favoriate films & Musicals 
+
+Casablanca
+
+Midnight in Paris
+
+The Irishman
+
+Hadestown 
+
+Westside Story
+
+### My favorite activities
+
+Playing drums
+
+Taking a long Walking & Hiking
+
+Yoga
+
+Visiting Farmers's Markets and Wineyards
+
+
