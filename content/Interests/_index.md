@@ -11,15 +11,6 @@ subtitle : Books, films, activities and people
 
 ---
 
-### Let's go explore the world! {.panelset}
-#### Row, Row, Row your boat, 
-
-#### Gently down the stream.
-
-#### Marrily, Marrily, Marrily, Marrily, 
-
-#### Life is but a dream~
-
 ### My literature reading list
 
 Romola - George Eliot
